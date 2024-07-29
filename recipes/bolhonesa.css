@@ -1,0 +1,17 @@
+h1 {
+    color: rgb(255, 0, 0);
+    text-align: center;
+}
+
+img {
+    height: 400px;
+    width: 700px;
+}
+
+div{
+    text-align: center;
+}
+
+.linha1{
+    color: red;
+}
